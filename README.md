@@ -1,8 +1,12 @@
 ## Project
 To run the project
+
 $ php artisan migrate
+
 $ php artisan serve
+
 Made whith Laravel Framework 7.18.0
+
 PHP 7.2.31
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
